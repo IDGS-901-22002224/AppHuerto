@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="8dp"
+    android:layout_marginEnd="8dp"> <TextView
+    android:id="@+id/tvForecastDay"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Lun"
+    android:textSize="14sp"
+    android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvForecastDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Soleado"
+        android:textSize="12sp"
+        android:textColor="@android:color/darker_gray" />
+
+    <ImageView
+        android:id="@+id/tvForecastIcon"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@drawable/ic_weather_placeholder" /> <TextView
+        android:id="@+id/tvForecastMaxTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="28°C"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvForecastMinTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="15°C"
+        android:textSize="14sp"
+        android:textColor="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/tvForecastPop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lluvia: 20%"
+        android:textSize="12sp"
+        android:textColor="@android:color/holo_blue_dark" />
+
+</LinearLayout>

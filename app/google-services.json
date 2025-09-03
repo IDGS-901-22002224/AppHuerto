@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977790096212",
+    "project_id": "proyectoverde-d7534",
+    "storage_bucket": "proyectoverde-d7534.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977790096212:android:a55183e40111019ea16ec1",
+        "android_client_info": {
+          "package_name": "org.utl.huertovertical"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdyvNqnbw0fQTkXGBVRwRQfVU62Z5lFVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

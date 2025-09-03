@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Sizes (existentes y nuevos para dashboard) -->
+    <dimen name="title_text_size">32sp</dimen>
+    <dimen name="card_title_text_size">20sp</dimen>
+    <dimen name="card_description_text_size">16sp</dimen>
+    <dimen name="data_text_size">28sp</dimen>
+    <dimen name="percentage_text_size">36sp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="button_icon_size">24sp</dimen>
+    <!-- Margins and Sizes (existentes y nuevos para dashboard) -->
+    <dimen name="title_margin_top">20dp</dimen>
+    <dimen name="title_margin_bottom">20dp</dimen>
+    <dimen name="card_margin_top">20dp</dimen>
+    <dimen name="card_padding">20dp</dimen>
+    <dimen name="text_margin_start">20dp</dimen>
+    <dimen name="text_margin_bottom">6dp</dimen>
+    <dimen name="data_title_margin_bottom">20dp</dimen>
+    <dimen name="data_margin_end">10dp</dimen>
+    <dimen name="data_margin_start">10dp</dimen>
+    <dimen name="icon_size">36dp</dimen>
+    <dimen name="card_corner_radius">14dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="button_section_margin_top">30dp</dimen>
+    <dimen name="button_section_margin_bottom">20dp</dimen>
+    <dimen name="button_margin_end">8dp</dimen>
+    <dimen name="button_margin_start">8dp</dimen>
+    <dimen name="button_margin_bottom">15dp</dimen>
+    <dimen name="button_padding">10dp</dimen>
+    <dimen name="button_icon_margin_bottom">6dp</dimen>
+    <dimen name="dashboard_padding">20dp</dimen>
+    <!-- Button Dimensions (existentes) -->
+    <dimen name="button_height">100dp</dimen>
+    <dimen name="button_height_with_margin">112dp</dimen>
+</resources>
