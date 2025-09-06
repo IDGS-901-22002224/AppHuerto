@@ -22,9 +22,9 @@ class DashboardActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityDashboardBinding
     private var mqttClient: Mqtt5AsyncClient? = null
-    private val mqttServer = "09fcbcef2c4b4ab19b4e9afb6519bb50.s1.eu.hivemq.cloud"
-    private val mqttUser = "hivemq.webclient.1753930553970"
-    private val mqttPass = "#4<TYu25AOzMbpgR9v;>"
+    private val mqttServer = ""
+    private val mqttUser = ""
+    private val mqttPass = ""
     private val mqttHumidityTopic = "huerto/humidity"
     private val mqttTemperatureTopic = "huerto/temperature"
     private val mqttWaterLevelTopic = "huerto/water_level"
