@@ -39,7 +39,7 @@ class activity_weather : AppCompatActivity() {
     private lateinit var forecastAdapter: ForecastAdapter
     private val forecastList = mutableListOf<DailyForecast>()
 
-    private val API_KEY = "ae2b9a1bd2e8599fd834ab32b944b9cb"
+    private val API_KEY = ""
     private val LATITUDE = 21.1254
     private val LONGITUDE = -101.6708
 
