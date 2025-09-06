@@ -21,9 +21,9 @@ import java.util.*
 class activity_history_analysis : AppCompatActivity() {
 
     private lateinit var mqttClient: Mqtt5AsyncClient
-    private val mqttServer = "09fcbcef2c4b4ab19b4e9afb6519bb50.s1.eu.hivemq.cloud"
-    private val mqttUser = "hivemq.webclient.1753930553970"
-    private val mqttPass = "#4<TYu25AOzMbpgR9v;>"
+    private val mqttServer = ""
+    private val mqttUser = ""
+    private val mqttPass = ""
     private val substrateHumidityTopic = "huerto/substrate_humidity"
     private val temperatureTopic = "huerto/temperature"
 
