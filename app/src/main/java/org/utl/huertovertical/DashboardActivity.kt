@@ -21,7 +21,7 @@ import java.util.UUID
 class DashboardActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityDashboardBinding
-    private var mqttClient: Mqtt5AsyncClient? = null
+    private var mqttClient: = null
     private val mqttServer = ""
     private val mqttUser = ""
     private val mqttPass = ""
