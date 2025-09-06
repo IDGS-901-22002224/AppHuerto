@@ -20,7 +20,7 @@ import java.util.*
 
 class activity_history_analysis : AppCompatActivity() {
 
-    private lateinit var mqttClient: Mqtt5AsyncClient
+    private lateinit var mqttClient: 
     private val mqttServer = ""
     private val mqttUser = ""
     private val mqttPass = ""
