@@ -21,10 +21,10 @@ import java.util.*
 
 class activity_irrigation_control : AppCompatActivity() {
 
-    private lateinit var mqttClient: Mqtt5AsyncClient
-    private val mqttServer = "09fcbcef2c4b4ab19b4e9afb6519bb50.s1.eu.hivemq.cloud"
-    private val mqttUser = "hivemq.webclient.1753930553970"
-    private val mqttPass = "#4<TYu25AOzMbpgR9v;>"
+    private lateinit var mqttClient: 
+    private val mqttServer = ""
+    private val mqttUser = ""
+    private val mqttPass = ""
     private val waterPumpTopic = "control-led"
     private val waterLevelTopic = "huerto/water_level"
     private val substrateHumidityTopic = "huerto/substrate_humidity"
